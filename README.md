@@ -1,2 +1,3 @@
 # rsschool-cv
-https://anastasija-fyr.io/rsschool-cv/cv
+### 
+https://anastasija-fyr.github.io/rsschool-cv/cv
